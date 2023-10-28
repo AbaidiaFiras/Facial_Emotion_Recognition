@@ -10,7 +10,7 @@ This project is a facial emotion recognition system using a Convolutional Neural
 # Usage
 Install the required dependencies:
 - Python 3.11
-- pip install -r requirements.txt
+- install requirements.txt
 
 
 # Dataset
